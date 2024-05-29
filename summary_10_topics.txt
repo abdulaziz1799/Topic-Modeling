@@ -1,0 +1,22 @@
+Summary for 10 topics:
+
+Topic 1: 0.009*"said" + 0.007*"trump" + 0.006*"mr" + 0.005*"state" + 0.005*"islamic" + 0.004*"new" + 0.004*"york" + 0.004*"united" + 0.003*"would" + 0.003*"isis"
+
+Topic 2: 0.011*"mr" + 0.009*"said" + 0.007*"state" + 0.006*"islamic" + 0.006*"new" + 0.005*"trump" + 0.004*"president" + 0.004*"american" + 0.004*"would" + 0.004*"people"
+
+Topic 3: 0.014*"said" + 0.008*"mr" + 0.007*"state" + 0.006*"new" + 0.005*"trump" + 0.005*"islamic" + 0.004*"people" + 0.004*"military" + 0.004*"would" + 0.004*"united"
+
+Topic 4: 0.011*"mr" + 0.010*"said" + 0.008*"trump" + 0.006*"state" + 0.005*"new" + 0.005*"american" + 0.005*"syria" + 0.005*"islamic" + 0.004*"times" + 0.004*"york"
+
+Topic 5: 0.010*"said" + 0.008*"state" + 0.007*"trump" + 0.006*"mr" + 0.006*"islamic" + 0.005*"new" + 0.004*"would" + 0.004*"one" + 0.004*"york" + 0.004*"times"
+
+Topic 6: 0.012*"mr" + 0.008*"said" + 0.008*"trump" + 0.007*"new" + 0.007*"state" + 0.005*"people" + 0.004*"islamic" + 0.004*"president" + 0.004*"york" + 0.004*"syria"
+
+Topic 7: 0.012*"said" + 0.009*"mr" + 0.008*"trump" + 0.008*"state" + 0.006*"islamic" + 0.005*"new" + 0.004*"president" + 0.004*"syria" + 0.004*"one" + 0.003*"isis"
+
+Topic 8: 0.009*"said" + 0.009*"islamic" + 0.008*"mr" + 0.007*"trump" + 0.006*"new" + 0.005*"state" + 0.004*"american" + 0.004*"one" + 0.004*"times" + 0.003*"president"
+
+Topic 9: 0.012*"said" + 0.008*"state" + 0.006*"trump" + 0.006*"mr" + 0.005*"islamic" + 0.005*"syria" + 0.005*"president" + 0.004*"new" + 0.004*"one" + 0.004*"would"
+
+Topic 10: 0.011*"said" + 0.008*"mr" + 0.007*"new" + 0.006*"islamic" + 0.005*"trump" + 0.005*"york" + 0.004*"also" + 0.004*"state" + 0.004*"times" + 0.004*"people"
+
